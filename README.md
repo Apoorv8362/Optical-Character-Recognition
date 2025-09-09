@@ -21,11 +21,6 @@ Approach -
 3. CSV Generation
 	•	Exported the cleaned dataset as:  behltreu_ahwm5_data.csv   for use in Question 2 (Stress Scenario Modeling).
 
-Files Included
-	•	ocr_script.py: Python script performing OCR, data cleaning, and CSV export.
-	•	behltreu_ahwm5_cleaned.csv: Final cleaned CSV with aligned dates, bond index prices, and future prices.
-	•	sample_ocr_output_preview.png: (Optional) Image showing a preview of the cleaned output for reference.
-
 Dependencies
 	•	pytesseract
 	•	Pillow
